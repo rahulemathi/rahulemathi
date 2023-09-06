@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul E Mathi</h1>
 <h3 align="center">A passionate Fullstack developer but who is interested in ethical hacking 😉</h3>
-<img align="right" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="hacking" witdth="400">
+<img align="right" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="hacking" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulemathi&label=Profile%20views&color=0e75b6&style=flat" alt="rahulemathi" /> </p>
 
