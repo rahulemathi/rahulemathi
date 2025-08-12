@@ -28,7 +28,22 @@
 
 ---
 
+### 💻 Projects & Hosting
+
+This portfolio and multiple projects are self-hosted on my personal server, giving me complete control over deployment, performance, and security.
+
+🔗 **Live Projects:**
+
+- 🌐 [O2 Project](https://o2.rahulemathi.in) – A custom application hosted for specific use cases or testing environments.
+- 🌐 [Sri Renugambal](https://srirenugambal.rahulemathi.in) – A culturally or spiritually themed website.
+- 🌐 [Manhitha](https://manhitha.rahulemathi.in) – A personal or professional web project under the Manhitha brand.
+
+🛠 These deployments demonstrate my ability to manage fullstack apps from development to production, including backend logic, frontend design, and server-level hosting.
+
+---
+
 ### 🛠️ Tools & Technologies
+
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
@@ -68,6 +83,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulemathi&show_icons=true&theme=radical" alt="rahulemathi GitHub Stats"/>
 </p>
