@@ -92,7 +92,5 @@ This portfolio and multiple projects are self-hosted on my personal server, givi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulemathi&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulemathi&theme=dark" alt="GitHub Streak"/>
-</p>
+[![GitHub Streak Card](https://v0‑git‑hub‑streak‑score‑card‑phi.vercel.app/api?user=rahulemathi&theme=dark)](https://v0‑git‑hub‑streak‑score‑card‑phi.vercel.app/)
 
