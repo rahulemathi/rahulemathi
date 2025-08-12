@@ -93,5 +93,6 @@ This portfolio and multiple projects are self-hosted on my personal server, givi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulemathi&theme=dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rahulemathi&theme=dark" alt="GitHub Streak"/>
 </p>
+
